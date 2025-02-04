@@ -1,2 +1,0 @@
-# portfilio
-personal resume
